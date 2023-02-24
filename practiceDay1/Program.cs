@@ -40,6 +40,8 @@ public class Program1
 
     static void LengthOfString()
     {
+        // length of string //
+
         Console.WriteLine("Enter any string");
         var str= Console.ReadLine();
 
